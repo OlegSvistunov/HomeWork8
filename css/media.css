@@ -243,7 +243,6 @@
 }
 
 @media (max-width: 320px){
-}
 
     header {
         height: 520px;
@@ -296,6 +295,7 @@
     .h2-link-to-show {
         display: block;
     }
+
     .footer-menu {
         display: none;
     }
